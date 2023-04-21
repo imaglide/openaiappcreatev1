@@ -1,3 +1,0 @@
-I need help creating a simple CRM database schema. I want an Account table, an opportunities table and an activities table
-
-i would like the above in this JSON { "name": "Test Project Management App", "tables": [ { "name": "tablename", "plural": "pluraltablename", "singular": "sigulartablename", "columns": [ { "name": "Name", "data_type": "type" } ] } ], "relationships": [ { "from": "table", "to": "table", "type": "one-to-many" } ] }
